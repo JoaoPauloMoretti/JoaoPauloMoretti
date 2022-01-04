@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou estudando Front-end e Typescript
 - 👯 Gostaria de colaborar com projetos Front-end
-- 📫 Contato : joaopaulomrtt@gmail.com
 
 <div align="center">
   <a href="https://github.com/JoaoPauloMoretti">
